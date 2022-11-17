@@ -320,4 +320,4 @@ $
 
 ## Authors ##
 
-👤 **Yonas Leykun**
+👤 **kennedy & Franklin**
